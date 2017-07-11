@@ -1,0 +1,17 @@
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\bin\Debug\Saira(32)_Filling.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\bin\Debug\Saira(32)_Filling.exe
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\bin\Debug\Saira(32)_Filling.pdb
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira(32)_Filling.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira(32)_Filling.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira(32)_Filling.exe
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira(32)_Filling.pdb
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.filestream.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Home.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Copyfile.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Createfile.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Createfolder.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Deletefile.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Movefile.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Readfile.resources
+c:\users\ali\documents\visual studio 2013\Projects\Saira(32)_Filling\Saira(32)_Filling\obj\Debug\Saira_32__Filling.Writefile.resources
